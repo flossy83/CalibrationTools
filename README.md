@@ -16,7 +16,7 @@
 * 64-bit Windows, Vista or later.
 * Logged in as a Windows Administrator.
 * Video card supporting gamma tables for monitor calibration.
-* DirectX June 2010 update (www.microsoft.com/en-au/download/details.aspx?id=8109).
+* DirectX June 2010 update (www.microsoft.com/en-us/download/details.aspx?id=8109).
 
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot3.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot4.png)
