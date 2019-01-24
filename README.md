@@ -1,4 +1,4 @@
-## Features ##
+# Features #
 
 * Create and edit monitor calibration files: adjust backlight, white balance, overall gamma, shadow detail gamma, 10-band gamma, s-curve, highlights.
 * Enforce separate day/night files with automatic dawn/dusk times and gradual transition during twilight.
@@ -8,7 +8,7 @@
 * Add effects to games with ReShade and manage ReShade installations.
 * Portable, installer-free, malware-free, nag-free.
 
-## Screenshots ##
+# Screenshots #
 
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot3.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot4.png)
