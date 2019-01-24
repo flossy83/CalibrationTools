@@ -6,12 +6,12 @@
 * Test for calibration hijacking.
 * Solve calibration hijacking in games with ReShade or borderless full screen windowed mode.
 * Add effects to games with ReShade and manage ReShade installations.
+* Portable, installer-free, malware-free, nag-free.
 
 # Screenshots #
 
-![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/main.png)
-![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/install.png)
-![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/presets.png)
-![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/shadows.png)
-![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/10band.png)
-![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/whitepoint.png)
+![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot3.png)
+![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot4.png)
+![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot5.png)
+![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot6.png)
+![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot7.png)
