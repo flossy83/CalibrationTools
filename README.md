@@ -1,29 +1,17 @@
-# README #
+# Features #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+* Create and edit monitor calibration files: adjust backlight, white balance, overall gamma, shadow detail gamma, 10-band gamma, s-curve, highlights.
+* Enforce separate day/night files with automatic dawn/dusk times and gradual transition during twilight.
+* Enforce per-application calibration files. 
+* Test for calibration hijacking.
+* Solve calibration hijacking in games with ReShade or borderless full screen windowed mode.
+* Add effects to games with ReShade and manage ReShade installations.
 
-### What is this repository for? ###
+# Screenshots #
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/main.png)
+![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/install.png)
+![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/presets.png)
+![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/shadows.png)
+![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/10band.png)
+![Alt text](https://bitbucket.org/CalibrationTools/calibration-tools/downloads/whitepoint.png)
