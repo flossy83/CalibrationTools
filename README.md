@@ -12,6 +12,5 @@
 
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot3.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot4.png)
-![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot5.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot6.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/screenshots/downloads/screenshot7.png)
