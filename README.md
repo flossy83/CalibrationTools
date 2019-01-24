@@ -1,4 +1,4 @@
-## Calibration Tools v1.0
+## Calibration Tools
 ---
 
 ### Features
