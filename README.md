@@ -7,7 +7,7 @@
 * Enforce separate day/night files with automatic dawn/dusk times and gradual transition during twilight.
 * Enforce per-application calibration files.
 * Test for and solve calibration hijacking in games with ReShade or borderless full screen windowed mode.
-* Enable dithering for smoother gradients on Nvidia GPUs.
+* Enable dithering on Nvidia GPUs for smoother gradients.
 * Add visual effects to games with ReShade and manage ReShade installations.
 * Portable, installer-free, malware-free, nag-free.
 
