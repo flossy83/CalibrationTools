@@ -8,7 +8,6 @@
 * Test for calibration hijacking in games, and solve with ReShade or borderless full screen windowed mode.
 * Enforce per-game calibration files.
 * Enable dithering on Nvidia GPUs for smoother gradients.
-* Portable, installer-free, malware-free.
 
 ## System Requirements
 
