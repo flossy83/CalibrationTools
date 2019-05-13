@@ -19,13 +19,3 @@
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot1.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot2.png)
-
-## Donate
-
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/button320s.png)
-
-Address: 13RHejM7meqLBHyYCi5667KCNsif1sBz5V
-
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr320.png)
-
-
