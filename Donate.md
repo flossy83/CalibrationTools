@@ -1,4 +1,4 @@
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/button320s.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/button320ss.png)
 
 Address: 13RHejM7meqLBHyYCi5667KCNsif1sBz5V
 
