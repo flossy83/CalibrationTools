@@ -2,4 +2,4 @@
 
 Address: 13RHejM7meqLBHyYCi5667KCNsif1sBz5V
 
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr160.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr320.png)
