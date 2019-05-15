@@ -17,5 +17,8 @@
 * Video card supporting gamma tables for monitor calibration.
 * DirectX June 2010 update (www.microsoft.com/en-us/download/details.aspx?id=8109).
 
+## Screenshots
+
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot1.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot2.png)
+
