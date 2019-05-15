@@ -4,4 +4,4 @@
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr260.png)
 
-Thank you.
+Thank you!
