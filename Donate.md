@@ -1,4 +1,4 @@
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/button260tb.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/button260.png)
 
 Please donate to Bitcoin address below:
 
