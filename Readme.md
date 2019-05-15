@@ -22,3 +22,10 @@
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot1.png)
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot2.png)
 
+## Donate
+```html
+  
+    Bitcoin: 1CTOOLSmzFVj8ALj6mfBsbifRoD4miY36v
+```
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr305.png)
+
