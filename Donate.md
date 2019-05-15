@@ -2,7 +2,7 @@
 
 Please donate to Bitcoin address below:
 
-1CALTLSmzFVj8ALj6mfBsbifRoD4miY36v
+1CTOOLSmzFVj8ALj6mfBsbifRoD4miY36v
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr260.png)
 
