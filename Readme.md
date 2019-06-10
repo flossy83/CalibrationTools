@@ -19,8 +19,7 @@
 
 ## Screenshots
 
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot1.png)
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/Screenshot2.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
 
 ## Donate
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/spacer2015.png)
