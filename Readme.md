@@ -22,8 +22,7 @@
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
 
 ## Donate
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/spacer2015.png)
 Bitcoin: 1CALTLSdHctke7hryfMuG43EqVv7gSP88z
 
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr178.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr178bl.png)
 
