@@ -17,6 +17,9 @@
 * Video card supporting gamma tables for monitor calibration.
 * DirectX June 2010 update (www.microsoft.com/en-us/download/details.aspx?id=8109).
 
+	**Note: it's recommended to avoid updating to Windows 10 version 1903 (May 2019) due to bugs in its colour management system.  If you have already updated, see [here](https://hub.displaycal.net/forums/topic/windows-10-1903-please-read/) for possible solutions.**
+  
+
 ## Screenshots
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
