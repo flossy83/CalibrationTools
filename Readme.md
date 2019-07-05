@@ -15,7 +15,7 @@
 * 64-bit Windows, Vista or later.
 * Logged in as a Windows Administrator.
 * Video card supporting gamma tables for monitor calibration.
-* DirectX June 2010 runtimes (www.microsoft.com/en-us/download/details.aspx?id=8109).
+* DirectX June 2010 update (www.microsoft.com/en-us/download/details.aspx?id=8109).
 
     **Note: Windows 10 version 1903 (May 2019) contains bugs in its colour management system which affect Calibration Tools.  For possible solutions, see [here](https://hub.displaycal.net/forums/topic/windows-10-1903-please-read/).**
   
