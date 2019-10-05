@@ -20,7 +20,7 @@
   
 ## Screenshots
 
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots2.png)
 
 ## Donate
 Bitcoin: 1CALTLSdHctke7hryfMuG43EqVv7gSP88z
