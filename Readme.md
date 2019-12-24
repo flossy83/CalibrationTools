@@ -22,7 +22,7 @@
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
 
-## Donations
+## Donations - Thank you
 Bitcoin: 1CALTLSdHctke7hryfMuG43EqVv7gSP88z
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr178bl.png)
