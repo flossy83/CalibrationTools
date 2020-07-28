@@ -3,7 +3,7 @@
 
 #### About
 
-Calibration Tools is a Windows application which manages your monitor calibration.  It was created to allow more control over monitor calibration.
+Calibration Tools is a Windows application which manages your monitor calibration.  It was created to provide more control over monitor calibration.
 
 #### Features
 
