@@ -1,6 +1,10 @@
 ### Calibration Tools
 ---
 
+#### About
+
+Calibration Tools is a Windows application which manages your monitor calibration.  It was created to allow more control over monitor calibration.
+
 #### Features
 
 * Create and edit monitor calibration files: adjust backlight, white balance, overall gamma, shadow detail gamma, 10-band gamma, s-curve, highlights.
