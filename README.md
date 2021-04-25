@@ -25,7 +25,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 #### Known Bugs
 
-* If Windows DPI scaling is not set to a multiple of 25, an miselading error message about missing icons is shown.
+* If Windows DPI scaling is not set to a multiple of 25, a miselading error message about missing icons is shown.
 
 
 #### Screenshots
