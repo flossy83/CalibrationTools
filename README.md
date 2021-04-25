@@ -18,7 +18,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 * 64-bit Windows, Vista or later.
 * Logged in as a Windows administrator.
-* Windows DPI scaling set to multiple of 25.
+* Windows DPI scaling set to a multiple of 25.
 * Video card supporting gamma tables for monitor calibration.
 * DirectX June 2010 update (www.microsoft.com/en-us/download/details.aspx?id=8109).
 * **Note: Windows 10 version 1903 (May 2019) contains bugs in its colour management system which affect Calibration Tools.  For possible solutions, see [here](https://hub.displaycal.net/forums/topic/windows-10-1903-please-read/).**
