@@ -23,10 +23,10 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 * [DirectX June 2010 update](https://www.microsoft.com/en-us/download/details.aspx?id=8109) (not included with Windows or subsequent DirectX updates).
 * **Note: Windows 10 version 1903 (May 2019) contains bugs in its colour management system which affect Calibration Tools.  For possible solutions, see [here](https://hub.displaycal.net/forums/topic/windows-10-1903-please-read/).**
 
-#### Known Bug
+#### Changelog
 
-* If Windows display scaling is not set to a multiple of 25, a misleading error message about missing icons is shown.
-
+* [2021-06-15] v1.0b fix missing icons error message if Windows display scaling is not multiple of 25.
+* [2020-03-18] v1.0 initial release.
 
 #### Screenshots
 
