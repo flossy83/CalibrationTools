@@ -25,7 +25,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 #### Changelog
 
-* [2021-06-15] v1.0b: fix missing icons error message if Windows display scaling is not multiple of 25.
+* [2021-06-15] v1.0b: fixed missing icons error message if Windows display scaling is not multiple of 25.
 * [2020-03-18] v1.0: initial release.
 
 #### Screenshots
