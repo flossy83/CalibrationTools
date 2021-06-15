@@ -12,7 +12,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 * Test for calibration hijacking in games, and solve with ReShade or borderless full screen windowed mode.
 * Enforce per-game calibration files.
 * Enable dithering on Nvidia GPUs for smoother gradients.
-* Portable, malware-free, ad-free, nag-free. (VirusTotal.com: no detections for [v1.0](https://www.virustotal.com/gui/file/5a99eebcfee40aa4630ac70bca0082c110b814851f92000a79511f30f469e874); v1.0b pending appeal)
+* Portable, malware-free, ad-free, nag-free. (VirusTotal.com: [no detections for v1.0](https://www.virustotal.com/gui/file/5a99eebcfee40aa4630ac70bca0082c110b814851f92000a79511f30f469e874); v1.0b pending appeal)
 
 #### System Requirements
 
