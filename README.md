@@ -24,7 +24,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 #### Current Issues
 * **Windows 10 version 1903 (May 2019) contains bugs in its colour management system which affect Calibration Tools.  For possible solutions, see [here](https://hub.displaycal.net/forums/topic/windows-10-1903-please-read/).**
-* **api.sunrise-sunset.org sometimes becomes unusable due to an expired certificate on their server, causing the "twilight transition" feature (if enabled) to throw an error message when it tries to update your dawn & dusk times.  You may workaround this by setting HTTPS=0 in Config.ini.  An update to Calibration Tools may be forthcoming to fix this issue permanently as it is a reoccurring problem with the sunrise-sunset server.**
+* **api.sunrise-sunset.org sometimes breaks due to an expired certificate on their server, causing the "twilight transition" feature (if enabled) to throw an error message when it tries to update your dawn & dusk times.  You may workaround this by setting HTTPS=0 in Config.ini.  An update to Calibration Tools may be forthcoming to fix this issue permanently as it is a reoccurring problem with the sunrise-sunset server.**
 * **For a long time CalibrationTools.exe showed no detections at VirusTotal.com, however vendors are constantly updating their virus signatures and must continually be chased to remove false positives.  Some of them do not respond to emails, eg. Trapmine.**
 
 #### Changelog
