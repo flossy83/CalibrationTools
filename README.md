@@ -27,6 +27,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 #### Changelog
 
+* [2024-01-31] v1.0b: fixed gradient banding issue in ReShade.
 * [2021-06-15] v1.0b: fixed missing icons error message if Windows display scaling is not multiple of 25.
 * [2020-03-18] v1.0: initial release.
 
