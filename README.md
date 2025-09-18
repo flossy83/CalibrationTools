@@ -1,4 +1,4 @@
-### ***NOTE: Download is currently unavailable due to a change in BitBucket's pricing model - should have it back soon***
+## ***NOTE: Download is currently unavailable due to a change in BitBucket's pricing model - should have it back soon.***
 ---
 
 ### Calibration Tools
