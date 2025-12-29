@@ -1,6 +1,3 @@
-#### ***NOTE: Download is currently unavailable due to a change in BitBucket's pricing model - should be back soon.***
----
-
 ### Calibration Tools
 ---
 
@@ -26,6 +23,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 * [DirectX June 2010 update](https://www.microsoft.com/en-us/download/details.aspx?id=8109) (not included with Windows or subsequent DirectX updates).
 
 #### Current Issues
+
 * **Windows 10 version 1903 (May 2019) contains bugs in its colour management system which affect Calibration Tools.  For possible solutions, see [here](https://hub.displaycal.net/forums/topic/windows-10-1903-please-read/).**
 
 
@@ -39,7 +37,14 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
 
+
+#### Download
+
+Due to Bitbucket no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/CalibrationTools) (releases section).
+
+
 #### Donate
+
 Bitcoin: 1CALTLSdHctke7hryfMuG43EqVv7gSP88z
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/qr178bl.png)
