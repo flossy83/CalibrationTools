@@ -38,12 +38,6 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshots.png)
 
-
-#### Download
-
-Due to Bitbucket downloads no longer being free, the download will hosted at my GitHub in the next few days (currently fighting GitHub TOS).
-
-
 #### Donate
 
 Bitcoin: 1CALTLSdHctke7hryfMuG43EqVv7gSP88z
