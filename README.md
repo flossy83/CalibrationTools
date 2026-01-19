@@ -29,7 +29,7 @@ Calibration Tools is a Windows application which manages your monitor calibratio
 
 #### Changelog
 
-* [2026-01-05] v1.0c: removed DirectX June 2010 runtime from assets for copyright reasons.  You will need to download this from Microsoft [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109) link above. Twilight transition now defaults to disabled.
+* [2026-01-05] v1.0c: removed DirectX June 2010 runtime from assets for copyright reasons.  You will need to download it from Microsoft [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109) for ReShade calibration to work. Twilight transition now defaults to disabled.
 * [2024-01-31] v1.0b: fixed gradient banding issue in ReShade.
 * [2021-06-15] v1.0b: fixed missing icons error message if Windows display scaling is not multiple of 25.
 * [2020-03-18] v1.0: initial release.
